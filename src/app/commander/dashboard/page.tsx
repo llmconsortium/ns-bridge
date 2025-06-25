@@ -51,7 +51,7 @@ export default function CommanderDashboard() {
       <main className="flex-1 p-4 md:p-8 lg:p-10">
         <div className="max-w-6xl mx-auto">
            <div className="mb-8 animate-fade-in-up" style={{opacity: 0}}>
-            <h1 className="text-3xl font-bold">{commander.rank} {commander.name}'s Dashboard</h1>
+            <h1 className="text-3xl font-bold">{commander.rank} {commander.name}&apos;s Dashboard</h1>
             <p className="text-muted-foreground">Unit Readiness for {commander.vocation}</p>
           </div>
           <CommanderView commander={commander} />
