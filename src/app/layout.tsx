@@ -9,6 +9,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'Bridge',
   description: 'Made by Warren Lee',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
