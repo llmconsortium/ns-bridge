@@ -296,7 +296,7 @@ export const commanders: Commander[] = [
   { id: 'commandos', name: 'Alex Tan', rank: 'LTA', vocation: 'Commandos' },
   { id: 'guards', name: 'Benjamin Neo', rank: 'LTA', vocation: 'Guards' },
   { id: 'infantry', name: 'Lee Wei', rank: 'CPT', vocation: 'Infantry' },
-  { id: 'maintenanceengineeringsupport', name: 'Kenji Tanaka', rank: 'MLTASG', vocation: 'Maintenance & Engineering Support' },
+  { id: 'maintenanceengineeringsupport', name: 'Kenji Tanaka', rank: 'LTA', vocation: 'Maintenance & Engineering Support' },
   { id: 'perscom', name: 'Brenda Lim', rank: 'CPT', vocation: 'PERSCOM (Personnel Command)' },
   { id: 'safammunitioncommand', name: 'Ismail bin Yaacob', rank: 'LTA', vocation: 'SAF Ammunition Command' },
   { id: 'safmilitarypolicecommand', name: 'John Smith', rank: 'LTA', vocation: 'SAF Military Police Command' },
